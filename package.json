@@ -1,0 +1,17 @@
+{
+  "name": "budgety",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "sathya",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "dependencies": {
+    "requirejs": "^2.3.6"
+  }
+}
